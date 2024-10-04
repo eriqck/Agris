@@ -98,7 +98,7 @@ This gives more insights on the farmers side, They are able to do farming geared
   
   # License
 
-Copyright (c) 2019 Benard Ngoda
+Copyright (c) 2024 Erick Njoroge
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
